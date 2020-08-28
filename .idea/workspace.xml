@@ -6,29 +6,25 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2769c7e2-d83f-4e7e-8ad7-fd0f5746f44c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598524502896</updated>
       <workItem from="1598524503991" duration="1749000" />
-      <workItem from="1598593047031" duration="10258000" />
+      <workItem from="1598593047031" duration="11508000" />
     </task>
     <servers />
   </component>
@@ -75,6 +71,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="82" y="328" width="1350" height="638" key="DiffContextDialog" timestamp="1598604540663">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="82" y="328" width="1350" height="638" key="DiffContextDialog/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1598604540663" />
     <state x="643" y="312" key="Github.ShareDialog" timestamp="1598597255280">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -87,5 +87,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1598595329082" />
+    <state x="451" y="64" key="VcsDiffUtil.ChangesDialog" timestamp="1598604494780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="451" y="64" key="VcsDiffUtil.ChangesDialog/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1598604494780" />
   </component>
 </project>
